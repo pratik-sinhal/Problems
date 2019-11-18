@@ -1,0 +1,111 @@
+a. STRINGS
+	1.Given two strings, write a method to decide if one is a PERMUTATION of the other ==> (CTCI)
+	2. Infix, prefix, suffix expressions ==> (General)
+	3. Write a method to compress a given string “aabbbccc” to “a2b3c3″ . It should be an inplace compression, no extra space to be used. 
+		===> (GFG & CTCI)
+	
+b. MATRIX
+	1.Given a boolean 2D array, where each row is SORTED. Find the row with the maximum number of 1s. ==> (GFG)
+	2. Find all paths in an N*N grid. ==> (General) (Delannoy number)
+	3. Rotate a n*n matrix by 90 degrees. ==> (CTCI) (3 ways, 2 inplace out of the three)
+	4. Print a matrix in spiral order ==> (GFG)
+	5. Inplace transpose a square matrix ==> (GFG) (no code)
+	6. Inplace M x N size matrix transpose ==> (GFG) 
+
+c. ARRAYS & ARRAYLIST
+	1. Remove DUPLICATES for an arrayList of elements. How would you solve this problem if a temporary buffer is not allowed ==> (CTCI) (no code)
+	2. Heap sort ==> (Cormen) (HeapSort.c)
+	3. Merge sort ==> (Cormen) (MergeSort.c)
+	4. Quick Sort ==> (Cormen)  (QuickSort.c)
+	5. k largest elements in array ==> (GFG) 
+	6. Given an array A[] and a number x, check for pair in A[] with sum as x. ==> (GFG) (no code) (done in #15)
+	8. Sort a nearly sorted(or k sorted) array in O(nlogk) time  ==> (GFG) (kSortedArray) (other ways left)
+	9. Sorted Array to Balanced BST ==> (GFG)
+	10. kth largest element in array ==> (GFG)
+	11. minimum & maximum in an array in minimum number of comparisons. ==> (GFG)
+	12. get largest and second largest in an array in logn comparisons. ==> (General)
+	13. Given a sorted array which may contain duplicates, write a method to find the starting and the ending index of the given number if 	present. ===> (GFG)
+	14. Heap/priority queue operations ==> (Cormen)
+	15. Given an array of integers, find a triplet having sum equal to K. ==> (GFG) (tripletSum)
+	16. Given an array a1, a2, a3 …. ,an, b1, b2, b3, ……bn. Rearrange this array to a1, b1, a2, b2, ….an,bn. This needs to be done inplace.
+	17. Check for Majority Element in a sorted array ==> (GFG)
+
+d. TREES
+	1. Contruct a Binary Search Tree ( BST.c ) ==> (General) (tree/Tree.java)
+	2. Construct BST from given preorder traversal ==> (GFG)	
+	3. BST to DLL ===> (GFG)
+	4. BST to DLL using queue ===> (GFG)
+	5. BST to DLL using zig zag traversal ===> (GFG)
+	6. Different structurally different BSTs. Catalan no. ===> (General)
+	7. Reverse the alternate level nodes of the binary tree. ===> (GFG)
+	8. Replace BST nodes with the sum of nodes greater than the node. ===> (GFG)
+	9. Print Paths in a Binary Tree. ==> (http://cslibrary.stanford.edu/110/BinaryTrees.html) ( BST.c ) (printPaths)
+	10. Mirror of a Binary Tree. ==> (http://cslibrary.stanford.edu/110/BinaryTrees.html) ( BST.c ) 
+	11. Check if two trees are same or not. ==> (http://cslibrary.stanford.edu/110/BinaryTrees.html) ( BST.c ) 
+	12. Convert a binary tree into a sum tree. ==> (http://cslibrary.stanford.edu/110/BinaryTrees.html) ( BST.c )
+	13. Level order traversal of a tree (using Queue) ===> (GFG) ( BST.c ) (no java code)
+	14. Level order traversal of a tree (recursively using functions) ===> (GFG) ( BST.c ) (no java code)	
+	15. Zig zag Level order traversal of a tree ===> (GFG) ( BST.c ) (2 ways recursive & iterative using 2 stacks)
+	16. Program to get the maximum distance/ diameter between two nodes in the binary tree. ===> (GFG)
+	17. Height of a binary tree using reference pointers/passes between function calls ===> (General)
+	18. Given a binary tree with usual left and right pointers and one additional pointer called adj. modify the tree in-place such that 	adj pointer should point to the right node in same level as current node or if it there is no node right to it, adjshould be NULL ==> (GFG)
+	19. Find Height of Binary Tree represented by Parent array ==> (GFG) (treeHeightFromArray) 		
+	20. Construct Full Binary Tree from given preorder and postorder traversals ==> (GFG)
+	21. A program to check if a binary tree is BST or not ==> (GFG)
+
+e. LINKED LISTS
+	1. Merge sort a linked list ==> (GFG) (MergeSortLinkedList.c) 
+	2. Implement a Linked list. ==> (General) (LinkedList.c)
+	3. Sorted linked list to Balanced BST ==> (GFG)
+	4. Reverse a linked list without using any pointers ==> (GFG) 
+	5. Reverse Linked List in O(N) time without using any auxiliary space ==> (GFG)
+	6. Reverse Linked List in O(N) time using tail recursion ==> (GFG)
+	7.  Given a singly linked list, modify the value of first half nodes such that 1st node’s new value is equal to the last node’s value minus 	first node’s current value, 2nd node’s new value is equal to the second last node’s value minus 2nd node’s current value, likewise 		for first half nodes. ==> (GFG) (ModifyLinkedList.c) 
+	8. Given a linked list, write a function to reverse every k nodes (where k is an input to the function). ===> (GFG) (1 way, recursive)
+	9. Reverse list iteratively. ==> (GFG) (LinkedList.c) 
+	10. Reverse list recursively by splitting into first & rest ==> (GFG) (LinkedList.c)
+	11. Reverse list recursively by reference pointers ==> (GFG) (LinkedList.c)
+	12. Reverse list recursively by value passing/returning ==> (GFG) (LinkedList.c) 
+	13. Detect and Remove Loop in a Linked List ==> (GFG)
+        14. Given a linked list. Check whether it is a palindrome ==> (GFG) (PalindromeList) (1 recursive & 1 stack approach is left)
+	15. Implement an algorithm to find the kth to last element of a singly linked list ==> (CTCI) (kthToLastElement)
+	16. Implement an algorithm to delete a node in the middle of a singly linked list, given only access to that node. ==> (CTCI) (no code)
+
+f. STACKS
+	1. Implement three stacks in an array. ==> (CTCI) 
+	2. Design a stack that supports push, pop, and retrieving the minimum element in constant time. => (GFG) (Stack.java)
+
+g. QUEUES
+	1. Implement a queue using two stacks. ==> (GFG) (QueueUsingTwoStacks.c) 
+
+h. NUMBERS
+	1. Given a number, find the next smallest palindrome ==> (GFG)
+	2. Find the median of a stream of integers. ==> (GFG) (median) (2 ways left)
+	3. Given a phone number. Check whether it has all unique digits or not ==> (GFG) (no code) (similar to #6) 
+	4. Find the two repeating elements in a given array ==> (GFG) 
+	5. Find the two non-repeating elements in an array of repeating elements ==> (GFG)
+	6. Find duplicates in O(n) time and O(1) extra space ==> (GFG) (duplicates)
+	
+i. TRIE
+	1. Implement a trie and its operations ==> (GFG)
+
+j. BITS&BYTES
+	1.Turn off a particular bit in a number ==> (GFG) (no code)
+	2. Write an Efficient Method to Check if a Number is Multiple of 3 ==> (GFG)
+	3. Count number of set bits in a number ===> (General) (countSetBits)
+	4. 5.1 from Bit Manipulation ==> (CTCI) (no code)
+	5. Given a real number between 0 and 1 (e.g. 0.72) that is passed in as a double. Print the binary representation. If the number cannot be represented accurately in binary with atmost 32 characters, print "ERROR". ==> (CTCI)  	
+
+k. DYNAMIC PROGRAMMING
+	1. Coin change problem ==> (GFG)
+	2. Stock span problem ==> (GFG)
+	
+l. GENERAL
+	1. Check if two rectangles overlap.
+	2. Design a LRU cache
+	
+m. INTERVIEW CORNER
+	Amazon: 89**, 91**, 128**, 141**, 142**
+	Flipkart: 13**
+	Adobe: 16** 
+	Micosoft: 48**
