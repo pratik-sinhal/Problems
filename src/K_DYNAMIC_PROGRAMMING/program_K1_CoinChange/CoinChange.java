@@ -82,21 +82,20 @@ public class CoinChange {
     }
 
     private void printAllCoinCombinations(int n, int sum, List<Integer> list) {
-        //System.out.println(n+","+sum);
-
         if(sum == 0) {
             System.out.println(list);
             return;
         }
 
-        if(n==0 || cache[n][sum] == 0) return;
+        if(n==0 || sum<0 || cache[n][sum] == 0) return;
 
-        printAllCoinCombinations(n-1, sum, list);
-        if(sum-a[n-1] >=0 && cache[n][sum-a[n-1]] > 0) {
-            List<Integer> list1 = new ArrayList<Integer>(list);
-            list1.add(a[n-1]);
-            printAllCoinCombinations(n, sum-a[n-1], list1);
-        }
+        //do not include a[n-1]
+        List<Integer> list2 = new ArrayList<>(list);
+        printAllCoinCombinations(n-1, sum, list2);
+
+        // include a[n-1]
+        list.add(a[n-1]);
+        printAllCoinCombinations(n, sum-a[n-1], list);
     }
 
     public static void main(String[] args) {

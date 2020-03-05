@@ -73,7 +73,7 @@ public class SubsetSum {
         if(i==0 || sum<0 || !cache[i][sum]) return;
 
         // do not include a[i-1]th element
-        List<Integer> list1 = new ArrayList<Integer>(list);
+        List<Integer> list1 = new ArrayList<>(list);
         printSubsets(i-1, sum, list1);
 
         // include a[i-1]th element
