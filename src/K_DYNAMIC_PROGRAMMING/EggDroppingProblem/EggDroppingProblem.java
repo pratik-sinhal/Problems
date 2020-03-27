@@ -1,17 +1,19 @@
-package K_DYNAMIC_PROGRAMMING.program_K11_EggDroppingPuzzle;
+package K_DYNAMIC_PROGRAMMING.EggDroppingProblem;
 
-public class EggDropping {
+public class EggDroppingProblem {
     private int k; // no of floors
     private int n; // no of eggs
-    private Integer[][] cache;
+    private int[][] cache;
 
-    public EggDropping(int k, int n) {
+    public EggDroppingProblem(int k, int n) {
         this.k = k;
         this.n = n;
-        this.cache = new Integer[n+1][k+1];
+        this.cache = new int[n+1][k+1];
     }
 
     public int eggDroppingTD(int n, int k){
+
+        //System.out.println("k = "+k+" n = "+n);
 
         if (k==1 || k==0)
             return k;
@@ -21,15 +23,17 @@ public class EggDropping {
 
         int minDrops = Integer.MAX_VALUE;
 
-        if(cache[n][k] != null)
+        if(cache[n][k] != 0)
             return cache[n][k];
 
         for (int i = 1; i <= k; i++) {
             int maxOfBothStrategies = 1 + Math.max(eggDroppingTD(n,k-i),eggDroppingTD(n-1,i-1));
             if(maxOfBothStrategies < minDrops){
                 minDrops = maxOfBothStrategies;
+                System.out.println("minDrops = "+minDrops+" i = "+i+" k = "+k+" n = "+n);
             }
         }
+
 
         cache[n][k] = minDrops;
 
@@ -49,8 +53,8 @@ public class EggDropping {
         for (int i = 2; i <= n; i++) {
             for (int j = 2; j <= k; j++) {
                 int minDrops = Integer.MAX_VALUE;
-                for (int l = 1; l <= j; l++) {
-                    int maxOfBothStrategies = 1 + Math.max(cache[i][j-l], cache[i-1][l-1]);
+                for (int k = 1; k <= j; k++) {
+                    int maxOfBothStrategies = 1 + Math.max(cache[i][j-k], cache[i-1][k-1]);
                     if (maxOfBothStrategies < minDrops) {
                         minDrops = maxOfBothStrategies;
                     }
@@ -59,7 +63,7 @@ public class EggDropping {
             }
         }
 
-        //printMatrix(cache,k,n);
+        printMatrix(cache,n+1,k+1);
 
         return cache[n][k];
     }
@@ -67,7 +71,7 @@ public class EggDropping {
     public static void main(String[] args) {
         int k = 10;
         int n = 2;
-        EggDropping eggDropping = new EggDropping(k,n);
+        EggDroppingProblem eggDropping = new EggDroppingProblem(k,n);
 
         // top-down memoization approach
         long value = eggDropping.eggDroppingTD(n,k);

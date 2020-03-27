@@ -1,6 +1,5 @@
 package K_DYNAMIC_PROGRAMMING.MaximumSumRectangle;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
 public class MaximumSumRectangle {
@@ -17,8 +16,8 @@ public class MaximumSumRectangle {
         int cols = a[0].length;
         int[] rowSum = new int[rows];
         int maxRectSum = Integer.MIN_VALUE;
-        int maxRectTop = 1;
-        int maxRectLeft =1;
+        int maxRectTop = -1;
+        int maxRectLeft = -1;
         int maxRectBottom = -1;
         int maxRectRight = -1;
 
@@ -28,7 +27,7 @@ public class MaximumSumRectangle {
             for (int j = i; j < cols; j++) {
 
                 //update rowSum for every i,j
-                updateRowSum(a, rowSum, j, rows, cols);
+                updateRowSum(a, rowSum, j, rows);
 
                 //run 1-d kadane on rowSum
                 int sum = 0;
@@ -62,7 +61,7 @@ public class MaximumSumRectangle {
         System.out.println(maxRectBottom + " " + maxRectRight);
     }
 
-    private static void updateRowSum(int[][] a, int[] rowSum, int j, int rows, int cols) {
+    private static void updateRowSum(int[][] a, int[] rowSum, int j, int rows) {
         for (int i = 0; i < rows; i++) {
             rowSum[i] += a[i][j];
         }
