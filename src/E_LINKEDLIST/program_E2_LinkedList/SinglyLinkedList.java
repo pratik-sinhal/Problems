@@ -12,7 +12,7 @@ public class SinglyLinkedList<T> implements ILinkedList<T>  {
 
     @Override
     public void insertFirst(T item) {
-        LinkedListNode oldHead = head;
+        LinkedListNode<T> oldHead = head;
         head = new LinkedListNode<T>(item);
         head.setNext(oldHead);
     }

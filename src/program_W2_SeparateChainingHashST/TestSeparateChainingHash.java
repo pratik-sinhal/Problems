@@ -1,7 +1,7 @@
 package program_W2_SeparateChainingHashST;
 
-import D_TREES.program_D1_BST.ISymbolTable;
-import D_TREES.program_D1_BST.SymbolTable;
+import TREES.BST.ISymbolTable;
+import TREES.BST.SymbolTable;
 
 import java.util.Scanner;
 

@@ -1,7 +1,7 @@
 package program_U3_SequentialSearchST;
 
 import program_G2_Queue.QueueList;
-import D_TREES.program_D1_BST.ISymbolTable;
+import TREES.BST.ISymbolTable;
 
 import java.util.NoSuchElementException;
 

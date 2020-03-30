@@ -3,12 +3,69 @@
   <component name="ChangeListManager">
     <list default="true" id="28a54c1b-dcac-4be8-a6ae-d77a07e09d5c" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/K_DYNAMIC_PROGRAMMING/MaximumSumRectangle/MaximumSumRectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/K_DYNAMIC_PROGRAMMING/MaximumSumRectangle/MaximumSumRectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/K_DYNAMIC_PROGRAMMING/program_K11_EggDroppingPuzzle/EggDropping.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/K_DYNAMIC_PROGRAMMING/program_K6_LIS/LIS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/MaximumSumRectangle/MaximumSumRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/MaximumSumRectangle/MaximumSumRectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/program_K11_EggDroppingPuzzle/EggDropping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/EggDroppingProblem/EggDroppingProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/program_K6_LIS/LIS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/LIS/LIS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPrograms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPrograms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/D_TREES/program_D1_BST/BST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/D_TREES/program_D1_BST/ISymbolTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/D_TREES/program_D1_BST/STNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/D_TREES/program_D1_BST/SymbolTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/D_TREES/program_D1_BST/TestBST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/D_TREES/program_D35_RedBlackBST/RedBlackBST$Color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/D_TREES/program_D35_RedBlackBST/RedBlackBST$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/D_TREES/program_D35_RedBlackBST/RedBlackBST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/D_TREES/program_D35_RedBlackBST/TestRedBlackBST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/D_TREES/program_D58_SegmentTree/SegmentTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/D_TREES/program_D58_SegmentTree/TestSegmentTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/D_TREES/program_D59_FenwickTree/FenwickTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/D_TREES/program_D59_FenwickTree/TestFenwickTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/E_LINKEDLIST/program_E2_LinkedList/SinglyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/E_LINKEDLIST/program_E2_LinkedList/SinglyLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/K_DYNAMIC_PROGRAMMING/EggDroppingProblem/EggDroppingProblem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/K_DYNAMIC_PROGRAMMING/LIS/LIS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/K_DYNAMIC_PROGRAMMING/MaximumSumRectangle/MaximumSumRectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/K_DYNAMIC_PROGRAMMING/WildcardPatternMatching/WildcardPatternMatching.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/K_DYNAMIC_PROGRAMMING/program_K12_RodCutting/RodCutting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/K_DYNAMIC_PROGRAMMING/program_K13_InterleavingOfStrings/StringInterleaving.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/K_DYNAMIC_PROGRAMMING/program_K14_EditDistance/EditDistance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/K_DYNAMIC_PROGRAMMING/program_K19_WordBreak/WordBreak.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/K_DYNAMIC_PROGRAMMING/program_K1_CoinChange/CoinChange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/K_DYNAMIC_PROGRAMMING/program_K2_OptimalGameStrategy/OptimalStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/K_DYNAMIC_PROGRAMMING/program_K3_MinimumCoinChange/MinCoinChange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/K_DYNAMIC_PROGRAMMING/program_K4_SubsetSum/SubsetSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/K_DYNAMIC_PROGRAMMING/program_K7_01Knapsack/Knapsack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/META-INF/JavaPrograms.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/META-INF/JavaPrograms.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/program_U3_SequentialSearchST/SequentialSearchST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/program_U3_SequentialSearchST/SequentialSearchST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/program_W2_SeparateChainingHashST/SeparateChainingHashST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/program_W2_SeparateChainingHashST/SeparateChainingHashST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/program_W2_SeparateChainingHashST/TestSeparateChainingHash.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/program_W2_SeparateChainingHashST/TestSeparateChainingHash.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D_TREES/program_D1_BST/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TREES/BST/BST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D_TREES/program_D1_BST/ISymbolTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TREES/BST/ISymbolTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D_TREES/program_D1_BST/STNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TREES/BST/STNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D_TREES/program_D1_BST/SymbolTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TREES/BST/SymbolTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D_TREES/program_D1_BST/TestBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TREES/BST/TestBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D_TREES/program_D1_BST/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TREES/BST/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D_TREES/program_D35_RedBlackBST/RedBlackBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TREES/program_D35_RedBlackBST/RedBlackBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D_TREES/program_D35_RedBlackBST/TestRedBlackBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TREES/program_D35_RedBlackBST/TestRedBlackBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D_TREES/program_D58_SegmentTree/SegmentTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TREES/program_D58_SegmentTree/SegmentTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D_TREES/program_D58_SegmentTree/TestSegmentTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TREES/program_D58_SegmentTree/TestSegmentTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D_TREES/program_D59_FenwickTree/FenwickTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TREES/program_D59_FenwickTree/FenwickTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D_TREES/program_D59_FenwickTree/TestFenwickTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TREES/program_D59_FenwickTree/TestFenwickTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E_LINKEDLIST/program_E2_LinkedList/LinkedListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/E_LINKEDLIST/program_E2_LinkedList/LinkedListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E_LINKEDLIST/program_E2_LinkedList/SinglyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/E_LINKEDLIST/program_E2_LinkedList/SinglyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/EggDroppingProblem/EggDroppingProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DYNAMIC_PROGRAMMING/EggDroppingProblem/EggDroppingProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/LIS/LIS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DYNAMIC_PROGRAMMING/LIS/LIS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/MaximumSumRectangle/MaximumSumRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DYNAMIC_PROGRAMMING/MaximumSumRectangle/MaximumSumRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/WildcardPatternMatching/WildcardPatternMatching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DYNAMIC_PROGRAMMING/WildcardPatternMatching/WildcardPatternMatching.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/program_K12_RodCutting/RodCutting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DYNAMIC_PROGRAMMING/program_K12_RodCutting/RodCutting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/program_K13_InterleavingOfStrings/StringInterleaving.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DYNAMIC_PROGRAMMING/program_K13_InterleavingOfStrings/StringInterleaving.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/program_K14_EditDistance/EditDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DYNAMIC_PROGRAMMING/program_K14_EditDistance/EditDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/program_K19_WordBreak/WordBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DYNAMIC_PROGRAMMING/program_K19_WordBreak/WordBreak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/program_K1_CoinChange/CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DYNAMIC_PROGRAMMING/program_K1_CoinChange/CoinChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/program_K2_OptimalGameStrategy/OptimalStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DYNAMIC_PROGRAMMING/program_K2_OptimalGameStrategy/OptimalStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/program_K3_MinimumCoinChange/MinCoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DYNAMIC_PROGRAMMING/program_K3_MinimumCoinChange/MinCoinChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/program_K4_SubsetSum/SubsetSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DYNAMIC_PROGRAMMING/program_K4_SubsetSum/SubsetSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/program_K7_01Knapsack/Knapsack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DYNAMIC_PROGRAMMING/program_K7_01Knapsack/Knapsack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T_UNIONFIND/program_T1_UnionFind/UnionFindNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T_UNIONFIND/program_T1_UnionFind/UnionFindNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/program_U3_SequentialSearchST/SequentialSearchST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/program_U3_SequentialSearchST/SequentialSearchST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/program_W2_SeparateChainingHashST/SeparateChainingHashST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/program_W2_SeparateChainingHashST/SeparateChainingHashST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/program_W2_SeparateChainingHashST/TestSeparateChainingHash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/program_W2_SeparateChainingHashST/TestSeparateChainingHash.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,19 +78,6 @@
   </component>
   <component name="FavoritesManager">
     <favorites_list name="JavaPrograms" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/EggDroppingProblem/EggDroppingProblem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -48,25 +92,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/N_GRAPHS/program_N21_EdgeWeightedDiGraph/Edge.java" />
-        <option value="$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/program_K4_SubsetSum/SubsetSum.java" />
-        <option value="$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/program_K1_CoinChange/CoinChange.java" />
-        <option value="$PROJECT_DIR$/src/GRAPHS/AlienDictionary/AlienDisctionary.java" />
-        <option value="$PROJECT_DIR$/src/GRAPHS/program_N11_TopologicalSort/TopologicalSort.java" />
-        <option value="$PROJECT_DIR$/src/GRAPHS/program_N13_Graph/GraphList.java" />
-        <option value="$PROJECT_DIR$/src/GRAPHS/AlienDictionary/AlienDictionary.java" />
-        <option value="$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/WildcardPatternMatching/WildcardPatternMatching.java" />
-        <option value="$PROJECT_DIR$/src/LIS/LIS.java" />
-        <option value="$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/MaximumSumRectangle/MaximumSumRectangle.java" />
-        <option value="$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/LIS/LIS.java" />
-        <option value="$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/EggDroppingProblem/EggDropping.java" />
-        <option value="$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/EggDroppingProblem/EggDroppingProblem.java" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="864" />
     <option name="height" value="492" />
@@ -74,12 +99,6 @@
   <component name="ProjectId" id="1QHvqfNCto9JPHh64kPW2DFJwHE" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="GenerateAntBuildDialog.backupFiles" value="true" />
@@ -94,7 +113,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="dynamic.classpath" value="false" />
     <property name="editorconfig.notification" value="Applied .editorconfig settings" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Platform/lombok.jar!/" />
     <property name="options.lastSelected" value="reference.projectsettings.compiler.annotationProcessors" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.splitter.main.proportions" value="0.3" />
@@ -122,7 +141,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EggDroppingProblem">
+  <component name="RunManager" selected="Application.AllUniqueBSTs">
     <configuration default="true" type="AndroidRunConfigurationType">
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -198,13 +217,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EggDroppingProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="K_DYNAMIC_PROGRAMMING.EggDroppingProblem.EggDroppingProblem" />
+    <configuration name="AllUniqueBSTs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AllUniquesBSTs.AllUniqueBSTs" />
       <module name="JavaPrograms" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="K_DYNAMIC_PROGRAMMING.EggDroppingProblem.*" />
+          <option name="PATTERN" value="AllUniquesBSTs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EggDroppingProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DYNAMIC_PROGRAMMING.EggDroppingProblem.EggDroppingProblem" />
+      <module name="JavaPrograms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DYNAMIC_PROGRAMMING.EggDroppingProblem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,26 +246,12 @@
       </method>
     </configuration>
     <configuration name="LIS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="K_DYNAMIC_PROGRAMMING.LIS.LIS" />
+      <option name="MAIN_CLASS_NAME" value="DYNAMIC_PROGRAMMING.LIS.LIS" />
       <module name="JavaPrograms" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="K_DYNAMIC_PROGRAMMING.LIS.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaximumSumRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="K_DYNAMIC_PROGRAMMING.MaximumSumRectangle.MaximumSumRectangle" />
-      <module name="JavaPrograms" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="K_DYNAMIC_PROGRAMMING.MaximumSumRectangle.*" />
+          <option name="PATTERN" value="DYNAMIC_PROGRAMMING.LIS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -241,12 +260,12 @@
       </method>
     </configuration>
     <configuration name="WildcardPatternMatching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="K_DYNAMIC_PROGRAMMING.WildcardPatternMatching.WildcardPatternMatching" />
+      <option name="MAIN_CLASS_NAME" value="DYNAMIC_PROGRAMMING.WildcardPatternMatching.WildcardPatternMatching" />
       <module name="JavaPrograms" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="K_DYNAMIC_PROGRAMMING.WildcardPatternMatching.*" />
+          <option name="PATTERN" value="DYNAMIC_PROGRAMMING.WildcardPatternMatching.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -268,6 +287,7 @@
       </method>
     </configuration>
     <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <properties />
       <listeners />
@@ -279,16 +299,16 @@
       <item itemvalue="Application.AlienDictionary" />
       <item itemvalue="Application.EggDroppingProblem" />
       <item itemvalue="Application.LIS" />
-      <item itemvalue="Application.MaximumSumRectangle" />
       <item itemvalue="Application.WildcardPatternMatching" />
+      <item itemvalue="Application.AllUniqueBSTs" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AllUniqueBSTs" />
+        <item itemvalue="Application.AlienDictionary" />
         <item itemvalue="Application.EggDroppingProblem" />
         <item itemvalue="Application.LIS" />
         <item itemvalue="Application.WildcardPatternMatching" />
-        <item itemvalue="Application.MaximumSumRectangle" />
-        <item itemvalue="Application.AlienDictionary" />
       </list>
     </recent_temporary>
   </component>
@@ -308,55 +328,16 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.024291499" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.68703705" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.45555556" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.055555556" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.54444444" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.4351852" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Codota" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Palette&#9;" order="5" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.03562753" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.17407407" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.45555556" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.055555556" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.54444444" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.4351852" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Codota" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Palette&#9;" order="5" />
-    </layout-to-restore>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -384,62 +365,57 @@
         <line-breakpoint enabled="true" type="java-line">
           <url />
           <line>91</line>
-          <properties />
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url />
           <line>23</line>
-          <properties />
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url />
           <line>28</line>
-          <properties />
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url />
           <line>36</line>
-          <properties />
           <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/WildcardPatternMatching/WildcardPatternMatching.java</url>
+          <url>file://$PROJECT_DIR$/src/DYNAMIC_PROGRAMMING/WildcardPatternMatching/WildcardPatternMatching.java</url>
           <line>13</line>
-          <properties />
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/WildcardPatternMatching/WildcardPatternMatching.java</url>
+          <url>file://$PROJECT_DIR$/src/DYNAMIC_PROGRAMMING/WildcardPatternMatching/WildcardPatternMatching.java</url>
           <line>16</line>
-          <properties />
           <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/WildcardPatternMatching/WildcardPatternMatching.java</url>
+          <url>file://$PROJECT_DIR$/src/DYNAMIC_PROGRAMMING/WildcardPatternMatching/WildcardPatternMatching.java</url>
           <line>19</line>
-          <properties />
           <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/WildcardPatternMatching/WildcardPatternMatching.java</url>
+          <url>file://$PROJECT_DIR$/src/DYNAMIC_PROGRAMMING/WildcardPatternMatching/WildcardPatternMatching.java</url>
           <line>22</line>
-          <properties />
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/WildcardPatternMatching/WildcardPatternMatching.java</url>
+          <url>file://$PROJECT_DIR$/src/DYNAMIC_PROGRAMMING/WildcardPatternMatching/WildcardPatternMatching.java</url>
           <line>24</line>
-          <properties />
           <option name="timeStamp" value="38" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/WildcardPatternMatching/WildcardPatternMatching.java</url>
+          <url>file://$PROJECT_DIR$/src/DYNAMIC_PROGRAMMING/WildcardPatternMatching/WildcardPatternMatching.java</url>
           <line>12</line>
-          <properties />
           <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AllUniquesBSTs/AllUniqueBSTs.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="40" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -466,277 +442,5 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="46" column="3" lean-forward="true" selection-start-line="46" selection-start-column="3" selection-end-line="46" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/program_K4_SubsetSum/SubsetSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1606">
-          <caret line="75" column="52" selection-start-line="75" selection-start-column="52" selection-end-line="75" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/program_K3_MinimumCoinChange/MinCoinChange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GRAPHS/program_N13_Graph/GraphList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1606">
-          <caret line="82" column="22" selection-start-line="82" selection-start-column="22" selection-end-line="82" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GRAPHS/program_N1_BFS/TestBFS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GRAPHS/program_N1_BFS/BFS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GRAPHS/program_N11_TopologicalSort/TestTopologicalSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GRAPHS/program_N11_TopologicalSort/TopologicalSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GRAPHS/AlienDictionary/AlienDictionary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/program_K19_WordBreak/WordBreak.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="81" lean-forward="true" selection-start-line="22" selection-start-column="81" selection-end-line="22" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/D_TREES/program_D1_BST/SymbolTable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/D_TREES/program_D1_BST/BST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1166">
-          <caret line="57" column="22" lean-forward="true" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GRAPHS/program_N13_Graph/TestGraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="3" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="22" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GRAPHS/program_N13_Graph/Graph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-          <folding>
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GRAPHS/program_N13_Graph/IGraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/E_LINKEDLIST/program_E2_LinkedList/LinkedListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GRAPHS/program_N21_EdgeWeightedDiGraph/Edge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/program_K1_CoinChange/CoinChange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2772">
-          <caret line="128" column="5" selection-start-line="121" selection-start-column="4" selection-end-line="128" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/WildcardPatternMatching/WildcardPatternMatching.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/MaximumSumRectangle/MaximumSumRectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="48" column="41" lean-forward="true" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/program_K13_InterleavingOfStrings/StringInterleaving.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/stream/Stream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="842" column="41" lean-forward="true" selection-start-line="842" selection-start-column="41" selection-end-line="842" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/program_K2_OptimalGameStrategy/OptimalStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/LIS/LIS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="67" column="13" lean-forward="true" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/K_DYNAMIC_PROGRAMMING/EggDroppingProblem/EggDroppingProblem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>JavaPrograms</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

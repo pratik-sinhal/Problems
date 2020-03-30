@@ -10,7 +10,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../../platform/lombok.jar!/" />
+          <root url="jar://$USER_HOME$/platform/lombok.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -19,7 +19,16 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../../platform/guava-18.0.jar!/" />
+          <root url="jar://$USER_HOME$/platform/guava-18.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/platform/softwares/lombok.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -28,7 +37,7 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../../platform/softwares/lombok.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Platform/lombok.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />

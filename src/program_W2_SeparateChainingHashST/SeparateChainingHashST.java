@@ -2,7 +2,7 @@ package program_W2_SeparateChainingHashST;
 
 import program_G2_Queue.QueueList;
 import program_U3_SequentialSearchST.SequentialSearchST;
-import D_TREES.program_D1_BST.ISymbolTable;
+import TREES.BST.ISymbolTable;
 
 import java.util.Collection;
 import java.util.NoSuchElementException;

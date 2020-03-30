@@ -9,4 +9,20 @@ import lombok.Data;
 public class UnionFindNode {
     public Integer root; // root of i
     public Integer rank; // rank of subtree rooted at i
+
+    public Integer getRoot() {
+        return root;
+    }
+
+    public void setRoot(Integer root) {
+        this.root = root;
+    }
+
+    public Integer getRank() {
+        return rank;
+    }
+
+    public void setRank(Integer rank) {
+        this.rank = rank;
+    }
 }
