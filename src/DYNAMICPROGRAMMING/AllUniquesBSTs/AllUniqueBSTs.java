@@ -12,9 +12,7 @@ public class AllUniqueBSTs {
         int noOfNodes = 4;
         List<Node> rootList = printUniqueBSTs(1, noOfNodes);
         for (Node root: rootList) {
-            //inorder(root);
             preorder(root);
-            //postorder(root);
             System.out.println();
         }
     }

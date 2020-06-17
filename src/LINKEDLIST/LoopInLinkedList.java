@@ -1,7 +1,8 @@
-package LINKEDLIST.program_E18_LinkedListLoop;
+package LINKEDLIST;
 
 import LINKEDLIST.program_E2_LinkedList.ILinkedList;
 import LINKEDLIST.program_E2_LinkedList.LinkedList;
+import LINKEDLIST.program_E2_LinkedList.LinkedListNode;
 import LINKEDLIST.program_E2_LinkedList.SinglyLinkedList;
 
 import java.util.Scanner;
@@ -9,14 +10,15 @@ import java.util.Scanner;
 /**
  * Created by pratik_s on 17/12/16.
  */
-public class TestLoopInLL {
+public class LoopInLinkedList<T> {
+
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
 
         ILinkedList<Integer> iLinkedList = new SinglyLinkedList<Integer>();
         LinkedList<Integer> linkedList = new LinkedList<Integer>(iLinkedList);
 
-        LoopInLL<Integer> loopInLL = new LoopInLL<Integer>();
+        LoopInLinkedList<Integer> loopInLL = new LoopInLinkedList<Integer>();
 
         Character ans;
         Integer choice;
@@ -59,5 +61,49 @@ public class TestLoopInLL {
             ans = s.next().charAt(0);
 
         } while(ans != 'n');
+    }
+
+    public void insertLoop(LinkedListNode<T> head){
+        LinkedListNode<T> ptr = head;
+
+        // insert a loop in list
+        while(ptr.next != null){
+            ptr = ptr.next;
+        }
+        ptr.next = head.next.next.next;
+    }
+
+    public Boolean detectAndRemoveLoop(LinkedListNode<T> head) {
+        LinkedListNode<T> slow = head;
+        LinkedListNode<T> fast = head;
+        Boolean hasLoop = Boolean.FALSE;
+
+        // detect if there is a loop
+        while(fast != null && fast.next != null){
+            slow = slow.next;
+            fast = fast.next.next;
+            if(fast == slow) {
+                hasLoop = Boolean.TRUE;
+                break;
+            }
+        }
+
+        if(hasLoop){
+            // find the starting node of the loop
+            LinkedListNode<T> temp = fast;
+            slow = head;
+            while(slow != fast){
+                slow = slow.next;
+                fast = fast.next;
+            }
+
+            // remove loop
+            while(temp.next != fast){
+                temp = temp.next;
+            }
+            temp.next = null;
+        }
+
+        return hasLoop;
     }
 }

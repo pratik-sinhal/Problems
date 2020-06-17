@@ -7,7 +7,7 @@ public class LongestPalindromicSubstring {
 
     public static void main(String[] args) {
         String s = "ABDCBCDBDCBBC";
-        System.out.println(LPSTD(s, 0, s.length()-1));
+        System.out.println(LPSTD(s, 0, s.length()-1, 0));
         System.out.println(LPSBU(s));
         System.out.println(NonDP(s));
     }
@@ -19,24 +19,24 @@ public class LongestPalindromicSubstring {
      * @param end
      * @return
      */
-    private static int LPSTD(String s, int start, int end) {
+    private static int LPSTD(String s, int start, int end, int len) {
         if(start == end)
-            return 1;
+            return 1+len;
 
         boolean b = s.charAt(start) == s.charAt(end);
         if(end == start+1 && b)
-            return 2;
+            return 2+len;
 
-        int res = 1;
+        int res;
 
         if(b) {
-            //second condition is for checking continuity
-            if (LPSTD(s, start + 1, end - 1) == (end - start - 1))
-                res = Math.max(res, end - start + 1);
+            //condition for checking continuity
+            res = LPSTD(s, start + 1, end - 1, len+2);
+        } else {
+            res = len;
         }
-        res = Math.max(res, Math.max(LPSTD(s,start+1,end), LPSTD(s,start,end-1)));
 
-        return res;
+        return Math.max(res, Math.max(LPSTD(s,start+1,end, 0), LPSTD(s,start,end-1, 0)));
     }
 
     /**
