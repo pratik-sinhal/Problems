@@ -1,4 +1,4 @@
-package TripletSum;
+package ARRAYS.TripletSum;
 
 import java.util.Arrays;
 

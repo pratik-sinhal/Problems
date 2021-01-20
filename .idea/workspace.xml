@@ -3,22 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="28a54c1b-dcac-4be8-a6ae-d77a07e09d5c" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/DYNAMICPROGRAMMING/AllUniquesBSTs/AllUniqueBSTs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/DYNAMICPROGRAMMING/AllUniquesBSTs/AllUniqueBSTs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/DYNAMICPROGRAMMING/AllUniquesBSTs/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/DYNAMICPROGRAMMING/AllUniquesBSTs/Node.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/DYNAMICPROGRAMMING/WildcardPatternMatching/WildcardPatternMatching.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/DYNAMICPROGRAMMING/WildcardPatternMatching/WildcardPatternMatching.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/LINKEDLIST/program_E18_LinkedListLoop/LoopInLL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/LINKEDLIST/program_E18_LinkedListLoop/TestLoopInLL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/STRINGS/LongestPalindromicSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/STRINGS/LongestPalindromicSubstring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/TREE/program_D58_SegmentTree/SegmentTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/TREE/program_D58_SegmentTree/SegmentTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/TREE/program_D58_SegmentTree/TestSegmentTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DYNAMICPROGRAMMING/AllUniquesBSTs/AllUniqueBSTs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DYNAMICPROGRAMMING/AllUniquesBSTs/AllUniqueBSTs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DYNAMICPROGRAMMING/WildcardPatternMatching/WildcardPatternMatching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DYNAMICPROGRAMMING/WildcardPatternMatching/WildcardPatternMatching.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LINKEDLIST/program_E18_LinkedListLoop/LoopInLL.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LINKEDLIST/program_E18_LinkedListLoop/TestLoopInLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LINKEDLIST/LoopInLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LINKEDLIST/program_E18_LinkedListLoop/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/STRINGS/LongestPalindromicSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/STRINGS/LongestPalindromicSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TREE/program_D58_SegmentTree/SegmentTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TREE/program_D58_SegmentTree/SegmentTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TREE/program_D58_SegmentTree/TestSegmentTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/TripletSum/TestTripletSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/TripletSum/TripletSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/TripletSum/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TripletSum/TestTripletSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ARRAYS/TripletSum/TestTripletSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TripletSum/TripletSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ARRAYS/TripletSum/TripletSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TripletSum/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ARRAYS/TripletSum/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TripletSum/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ARRAYS/TripletSum/package-info.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +82,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WildcardPatternMatching">
+  <component name="RunManager" selected="Application.ValidateIPAddress">
     <configuration default="true" type="AndroidRunConfigurationType">
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -166,34 +158,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HuffmanEncoding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="STRINGS.HuffmanEncoding" />
-      <module name="JavaPrograms" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="STRINGS.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LRUCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MISC.LRUCache" />
-      <module name="JavaPrograms" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MISC.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MedianOfAStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NUMBERS.MedianOfAStream" />
       <module name="JavaPrograms" />
@@ -201,6 +165,34 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="NUMBERS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockBuySell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ARRAYS.StockBuySell" />
+      <module name="JavaPrograms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ARRAYS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidateIPAddress" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="STRINGS.ValidateIPAddress" />
+      <module name="JavaPrograms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="STRINGS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -245,19 +237,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HuffmanEncoding" />
-      <item itemvalue="Application.LRUCache" />
       <item itemvalue="Application.MedianOfAStream" />
       <item itemvalue="Application.AllUniqueBSTs" />
       <item itemvalue="Application.WildcardPatternMatching" />
+      <item itemvalue="Application.StockBuySell" />
+      <item itemvalue="Application.ValidateIPAddress" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidateIPAddress" />
+        <item itemvalue="Application.StockBuySell" />
         <item itemvalue="Application.WildcardPatternMatching" />
         <item itemvalue="Application.AllUniqueBSTs" />
         <item itemvalue="Application.MedianOfAStream" />
-        <item itemvalue="Application.LRUCache" />
-        <item itemvalue="Application.HuffmanEncoding" />
       </list>
     </recent_temporary>
   </component>
