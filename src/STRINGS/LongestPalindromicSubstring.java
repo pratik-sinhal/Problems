@@ -6,7 +6,8 @@ import java.util.Scanner;
 public class LongestPalindromicSubstring {
 
     public static void main(String[] args) {
-        String s = "ABDCBCDBDCBBC";
+        //String s = "ABDCBCDBDCBBC";
+        String s = "BABAB";
         System.out.println(LPSTD(s, 0, s.length()-1, 0));
         System.out.println(LPSBU(s));
         System.out.println(NonDP(s));

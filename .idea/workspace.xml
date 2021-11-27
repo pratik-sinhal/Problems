@@ -3,16 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="28a54c1b-dcac-4be8-a6ae-d77a07e09d5c" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/DYNAMICPROGRAMMING/WildcardPatternMatching/WildcardPatternMatching.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/DYNAMICPROGRAMMING/WildcardPatternMatching/WildcardPatternMatching.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/TripletSum/TestTripletSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/TripletSum/TripletSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/TripletSum/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TripletSum/TestTripletSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ARRAYS/TripletSum/TestTripletSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TripletSum/TripletSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ARRAYS/TripletSum/TripletSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TripletSum/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ARRAYS/TripletSum/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TripletSum/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ARRAYS/TripletSum/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPrograms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPrograms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/DYNAMICPROGRAMMING/AllUniquesBSTs/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/DYNAMICPROGRAMMING/AllUniquesBSTs/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/META-INF/JavaPrograms.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/STRINGS/ValidateIPAddress.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/STRINGS/ValidateIPAddress.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/TREE/BST/STNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/TREE/BST/STNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/TREE/program_D58_SegmentTree/SegmentTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/TREE/program_D58_SegmentTree/SegmentTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/STRINGS/LongestPalindromicSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/STRINGS/LongestPalindromicSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TREE/program_D58_SegmentTree/SegmentTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TREE/program_D58_SegmentTree/SegmentTree.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,9 +19,6 @@
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="JavaPrograms" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -41,6 +37,9 @@
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="GenerateAntBuildDialog.backupFiles" value="true" />
     <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
@@ -52,6 +51,7 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.sorted" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="dynamic.classpath" value="false" />
     <property name="editorconfig.notification" value="Applied .editorconfig settings" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -62,7 +62,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -70,20 +70,14 @@
       <recent name="$PROJECT_DIR$/src/program25" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.ValidateIPAddress">
-    <configuration default="true" type="AndroidRunConfigurationType">
+  <component name="RunManager" selected="Application.LongestPalindromicSubstring">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -97,8 +91,6 @@
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
       <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
       <option name="DEBUGGER_TYPE" value="Java" />
       <Java />
       <Profilers>
@@ -112,20 +104,19 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType">
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
       <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="PACKAGE_NAME" value="" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
       <option name="EXTRA_OPTIONS" value="" />
+      <option name="INCLUDE_GRADLE_EXTRA_OPTIONS" value="true" />
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
       <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
       <option name="DEBUGGER_TYPE" value="Java" />
       <Java />
       <Profilers>
@@ -138,19 +129,13 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="Applet">
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AllUniqueBSTs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DYNAMICPROGRAMMING.AllUniquesBSTs.AllUniqueBSTs" />
+    <configuration name="LongestPalindromicSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="STRINGS.LongestPalindromicSubstring" />
       <module name="JavaPrograms" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DYNAMICPROGRAMMING.AllUniquesBSTs.*" />
+          <option name="PATTERN" value="STRINGS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,13 +143,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MedianOfAStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NUMBERS.MedianOfAStream" />
+    <configuration name="SegmentTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TREE.program_D58_SegmentTree.SegmentTree" />
       <module name="JavaPrograms" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NUMBERS.*" />
+          <option name="PATTERN" value="TREE.program_D58_SegmentTree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -237,25 +222,23 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MedianOfAStream" />
-      <item itemvalue="Application.AllUniqueBSTs" />
-      <item itemvalue="Application.WildcardPatternMatching" />
+      <item itemvalue="Application.SegmentTree" />
       <item itemvalue="Application.StockBuySell" />
       <item itemvalue="Application.ValidateIPAddress" />
+      <item itemvalue="Application.WildcardPatternMatching" />
+      <item itemvalue="Application.LongestPalindromicSubstring" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LongestPalindromicSubstring" />
+        <item itemvalue="Application.SegmentTree" />
+        <item itemvalue="Application.WildcardPatternMatching" />
         <item itemvalue="Application.ValidateIPAddress" />
         <item itemvalue="Application.StockBuySell" />
-        <item itemvalue="Application.WildcardPatternMatching" />
-        <item itemvalue="Application.AllUniqueBSTs" />
-        <item itemvalue="Application.MedianOfAStream" />
       </list>
     </recent_temporary>
   </component>
-  <component name="StructureViewFactory">
-    <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS" />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -274,13 +257,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -289,6 +271,24 @@
     <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
       <collection />
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1750" height="275" key="GridCell.Tab.0.bottom" timestamp="1637597010982">
+      <screen x="0" y="23" width="1792" height="1013" />
+    </state>
+    <state width="1750" height="275" key="GridCell.Tab.0.bottom/0.23.1792.1013@0.23.1792.1013" timestamp="1637597010982" />
+    <state width="1750" height="275" key="GridCell.Tab.0.center" timestamp="1637597010982">
+      <screen x="0" y="23" width="1792" height="1013" />
+    </state>
+    <state width="1750" height="275" key="GridCell.Tab.0.center/0.23.1792.1013@0.23.1792.1013" timestamp="1637597010982" />
+    <state width="1750" height="275" key="GridCell.Tab.0.left" timestamp="1637597010982">
+      <screen x="0" y="23" width="1792" height="1013" />
+    </state>
+    <state width="1750" height="275" key="GridCell.Tab.0.left/0.23.1792.1013@0.23.1792.1013" timestamp="1637597010982" />
+    <state width="1750" height="275" key="GridCell.Tab.0.right" timestamp="1637597010982">
+      <screen x="0" y="23" width="1792" height="1013" />
+    </state>
+    <state width="1750" height="275" key="GridCell.Tab.0.right/0.23.1792.1013@0.23.1792.1013" timestamp="1637597010982" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -362,27 +362,27 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/STRINGS/LongestPalindromicSubstring.java</url>
-          <line>25</line>
+          <line>26</line>
           <option name="timeStamp" value="47" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/STRINGS/LongestPalindromicSubstring.java</url>
-          <line>26</line>
+          <line>27</line>
           <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/STRINGS/LongestPalindromicSubstring.java</url>
-          <line>28</line>
+          <line>29</line>
           <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/STRINGS/LongestPalindromicSubstring.java</url>
-          <line>30</line>
+          <line>31</line>
           <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/STRINGS/LongestPalindromicSubstring.java</url>
-          <line>21</line>
+          <line>22</line>
           <option name="timeStamp" value="51" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">

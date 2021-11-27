@@ -19,7 +19,9 @@ public class SegmentTree {
         do {
             System.out.println("---------------Menu-------------- ");
             System.out.println("1. construct segment tree: ");
-            System.out.println("2. query segment tre: ");
+            System.out.println("2. query segment tree: ");
+            System.out.println("3. update segment tre: ");
+
 
             System.out.println("Enter your choice: ");
             choice = s.nextInt();
@@ -36,6 +38,15 @@ public class SegmentTree {
                     System.out.print("Enter query end index:");
                     int qEnd = s.nextInt();
                     System.out.println(tree.queryTree(0,a.length-1,ST,qStart,qEnd,0));
+                    break;
+
+                case 3:
+                    System.out.print("Enter index to update:");
+                    int index = s.nextInt();
+                    System.out.print("Enter value to update:");
+                    int val = s.nextInt();
+                    tree.updateTree(a,0,a.length-1,ST,index,val,0);
+                    System.out.println("array representation of segment tree: \n"+Arrays.toString(ST));
                     break;
 
                 default:
@@ -70,6 +81,16 @@ public class SegmentTree {
         ST[root] = Math.min(ST[left],ST[right]);
     }
 
+    /**
+     *
+     * @param start
+     * @param end
+     * @param ST
+     * @param qStart
+     * @param qEnd
+     * @param root
+     * @return
+     */
     public int queryTree(int start, int end, int[] ST, int qStart, int qEnd, int root){
         // total overlap
         if(start >= qStart && end <= qEnd) return ST[root];
@@ -84,7 +105,33 @@ public class SegmentTree {
 
         return Math.min(queryTree(start,mid,ST,qStart,qEnd,left),
                 queryTree(mid+1,end,ST,qStart,qEnd,right));
+    }
 
+    /**
+     *
+     * @param a
+     * @param start
+     * @param end
+     * @param ST
+     * @param index
+     * @param val
+     * @param root
+     */
+    private void updateTree(int[] a, int start, int end, int[] ST, int index, int val, int root) {
+        if((start == end) && (start == index)) {
+            ST[root] = val;
+            return;
+        }
 
+        if(start >= end) {
+            return;
+        }
+
+        int mid = start + (end-start)/2;
+        int left = 2*root+1;
+        int right = 2*root+2;
+        updateTree(a, start, mid, ST, index, val, left);
+        updateTree(a, mid+1, end, ST, index, val, right);
+        ST[root] = Math.min(ST[left],ST[right]);
     }
 }
